@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="..\..\configuration-milyli.json" Link="configuration-milyli.json" />
     <Content Include="..\..\configuration.json" Link="configuration.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

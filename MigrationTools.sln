@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31410.414
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigrationTools.ConsoleFull", "src\MigrationTools.ConsoleFull\MigrationTools.ConsoleFull.csproj", "{033EB332-4A50-4C73-9B7D-A35D9F3C0513}"
 EndProject
@@ -39,6 +39,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 		.gitattributes = .gitattributes
 		.gitignore = .gitignore
+		configuration-milyli.json = configuration-milyli.json
 		configuration.json = configuration.json
 		configuration2.json = configuration2.json
 		Directory.Build.props = Directory.Build.props
